@@ -2,9 +2,9 @@
 > DO NOT FORK, please download this repository and import it to your personal account.
 
 
-# Syncly-interview Template
+# Jointrix-interview Template
 
-Thanks for applying to Syncly! While basic, this template resembles high-level of what Syncly's fullstack experience would look like. This defines a very good starting point for your homework assignment so you can focus on writing the application rather than making the foundation of the app.
+Thanks for applying to Jointrix! While basic, this template resembles high-level of what Jointrix's fullstack experience would look like. This defines a very good starting point for your homework assignment so you can focus on writing the application rather than making the foundation of the app.
 
 ## What you are building
 
@@ -62,4 +62,4 @@ To get started, follow these steps:
 
 
 > [!NOTE]
-> You are not creating an API for this application. But rather interacting with GitHub's GraphQL API (Read the docs [here](https://docs.github.com/en/graphql)). At Syncly, you will be creating queries and mutations for the API, but for the sake of your time, we will be interacting with GitHub's API.
+> You are not creating an API for this application. But rather interacting with GitHub's GraphQL API (Read the docs [here](https://docs.github.com/en/graphql)). At Jointrix, you will be creating queries and mutations for the API, but for the sake of your time, we will be interacting with GitHub's API.
